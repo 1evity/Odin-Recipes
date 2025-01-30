@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a simple static website built using HTML. The website includes essential pages and content, with the links organized in a clear and user-friendly layout. It aims to demonstrate basic web development skills and serve as a starting point for further enhancements and additions.
+This project is a simple static website built using HTML. The website includes recipe pages and content, with the links organized in a clear and user-friendly layout. It aims to demonstrate basic web development skills and serve as a starting point for further enhancements and additions.
 
 ## Expected Goals
 
@@ -12,8 +12,9 @@ This project is a simple static website built using HTML. The website includes e
 - Understand the workflow of creating and updating static websites.
 - Prepare the foundation for future enhancements such as adding CSS, JavaScript, or more complex features.
 
-## Files Map
+## Files Tree
 
+```
 ├── README.md
 ├── assets
 │   └── images
@@ -39,3 +40,4 @@ This project is a simple static website built using HTML. The website includes e
 ├── samosa.html
 ├── shawarma.html
 └── shuwa.html
+```
