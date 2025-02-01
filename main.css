@@ -1,0 +1,7 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', serif;
+    color: rgb(90, 147, 91);
+    text-align: center;
+    text-shadow: 0px 0px 10px rgba(72, 255, 69, 0.6);
+    background-color: beige;
+}
