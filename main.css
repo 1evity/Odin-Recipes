@@ -5,3 +5,17 @@ h1 {
     text-shadow: 0px 0px 10px rgba(72, 255, 69, 0.6);
     background-color: beige;
 }
+
+.recipes-list {
+    font-family:Verdana, Tahoma, sans-serif;
+    font-weight: bold;
+    list-style: none;
+    text-align: center;
+}
+
+/* For specificity rules we need to keep any styling of the list items that
+    conflicts with hyperlink styling here */
+ul a {
+    text-decoration: none;
+    color: black;
+}
