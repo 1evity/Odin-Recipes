@@ -1,4 +1,4 @@
-# [Odin Recipes](https://1evity.github.io/odin-recipes/)
+# [Odin Recipes](https://1evity.github.io/Odin-Recipes/))
 
 ## 📝 Description
 
