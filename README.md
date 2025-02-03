@@ -1,12 +1,12 @@
-# [Odin Recipes](https://1evity.github.io/Odin-Recipes/))
+# [Odin Recipes](https://1evity.github.io/Odin-Recipes/)
 
 ## 📝 Description
 
-This project is a simple static website built using HTML. The website includes recipe pages and content, with the links organized in a clear and user-friendly layout. It aims to demonstrate basic web development skills and serve as a starting point for further enhancements and additions.
+This project is a simple static website built using HTML, vanilla CSS. The website includes recipe pages and content, with the links organized in a clear and user-friendly layout. It aims to demonstrate basic web development skills and serve as a starting point for further enhancements and additions.
 
 ## ⭐️ Expected Goals
 
-- Develop a basic, responsive HTML website.
+- Develop a basic, responsive website.
 - Gain familiarity with organizing and structuring content on a webpage.
 - Learn how to link pages and organize assets (images, stylesheets, etc.).
 - Understand the workflow of creating and updating static websites.
